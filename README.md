@@ -4,9 +4,11 @@
 ### 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" alt="Python"/>
+  <i class="fa-brands fa-python" style="font-size: 60px;"></i>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px" alt="Java"/>
+  <i class="fa-brands fa-java" style="font-size: 60px;"></i>
+  &nbsp;&nbsp;
+  <i class="fa-brands fa-database" style="font-size: 60px;"></i>
 </p>
 
 ---
@@ -18,5 +20,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
