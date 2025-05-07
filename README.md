@@ -4,11 +4,11 @@
 ### 🚀 Tecnologias
 
 <p align="center">
-  <i class="fa-brands fa-python" style="font-size: 60px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" alt="Python"/>
   &nbsp;&nbsp;
-  <i class="fa-brands fa-java" style="font-size: 60px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px" alt="Java"/>
   &nbsp;&nbsp;
-  <i class="fa-brands fa-database" style="font-size: 60px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" alt="SQL"/>
 </p>
 
 ---
